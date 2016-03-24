@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://vimeo.com/45602264'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Lemon Flowers" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-24T07:17:32.224Z'
-dateModified: '2016-03-24T07:14:50.633Z'
+datePublished: '2016-03-24T07:18:38.283Z'
+dateModified: '2016-03-24T07:17:45.574Z'
 author:
   - name: Pamela Ghanimeh
     url: 'http://vimeo.com/user12466333'
@@ -50,6 +49,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: lemon-flowers/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
