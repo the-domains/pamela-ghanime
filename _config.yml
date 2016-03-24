@@ -1,0 +1,28 @@
+name: Pamela Ghanime
+favicon: null
+layout_spectrum: 0.10549772321246564
+typography_spectrum: 0.9107900485396385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4259621005039662
+  lightness: 0.11279255920089781
+  saturation: 0.4993015290237963
+  rhythmicContrast: 0.3756988465320319
+purpose: []
