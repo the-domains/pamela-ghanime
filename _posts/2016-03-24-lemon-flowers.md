@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/45602264'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This is "Lemon Flowers" by on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-03-24T07:17:32.224Z'
+dateModified: '2016-03-24T07:14:50.633Z'
 author:
   - name: Pamela Ghanimeh
     url: 'http://vimeo.com/user12466333'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Lemon Flowers" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/45602264'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/45602264'
 title: Lemon Flowers
-datePublished: '2016-03-24T07:11:45.269Z'
-dateModified: '2016-03-24T07:09:22.884Z'
 sourcePath: _posts/2016-03-24-lemon-flowers.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
